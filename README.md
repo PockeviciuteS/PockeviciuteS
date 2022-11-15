@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PockeviciuteS
+- 👀 I’m interested in plant and knitting.
+- 🌱 I’m currently learning python.
